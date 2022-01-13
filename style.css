@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  font-size: 130%;
+  background-color: #DDD;
+  color: #333;
+}
+
+a {
+  color: #337bcc;;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: .75rem 1.25rem;
+  margin-bottom: -1px;
+}
+
