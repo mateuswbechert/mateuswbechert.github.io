@@ -303,7 +303,7 @@ a:hover
             transition: all .1s linear;
     letter-spacing: .025em;
 
-    color: #111;
+    color: #fff;
     border: 3px solid #fff;
     border-radius: 4em;
     background: none;
@@ -311,7 +311,7 @@ a:hover
 
 .hero .front-content .container-mid .open-popup:hover
 {
-    color: #111;
+    color: #fff;
     background: rgba(255, 255, 255, 0.329);
 }
 
