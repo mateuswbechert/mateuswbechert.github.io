@@ -1,6 +1,8 @@
 ## Mateus Wolfart Bechert
 
-Software Developer with 8 years of experience on Linux, Cloud and Network Management · Porto Alegre, Brazil <br>
+Software Developer with 8 years of experience on Linux, Cloud and Network Management 
+
+Porto Alegre, Brazil <br>
 <mateuswbechert@gmail.com> <br>
 [linkedin.com/in/mateus-wolfart-bechert](http://linkedin.com/in/mateus-wolfart-bechert) <br>
 [github.com/mateuswbechert](http://github.com/mateuswbechert) <br>
