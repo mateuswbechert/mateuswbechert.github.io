@@ -42,15 +42,16 @@ Software Developer - Porto Alegre, Brazil<br>
   - High Availability implementation for services and applications
 - **IT Assistant - Education Institution / College - FAPA** <br>
   <span style="color: grey; font-size: 14px">08/2012 - 03/2014 · Porto Alegre, Brazil</span>
-  - Provide daily support for local network and students
-  - Assist teachers and administrators in solving a wide range of technology troubleshooting problems
-  - Responsible for writing reports, tracking inventory, evaluating new technologies
-  - Trained and supervised IT assistant interns
+  - Opportunity to work with On-Premises Data Center 
+  - Learn to work and manage Enterprise Solutions - Active Directory, Juniper, Aruba and Kaspersky
+  - Provide daily support for local network users, professors and students
+  - Helpdesk reports and inventory tracking
+  - Trained and supervised IT assistant interns for labs maintenance and support
 - **IT Assistant Intern - Delivery and Transport Services - Planalto**<br>
   <span style="color: grey; font-size: 14px">O5/2011 - 11/2011 · Porto Alegre, Brazil</span>
-  - Provide daily support for computer network users
+  - Provide daily support for network users
   - Responsible for writing reports, tracking inventory, evaluating new technologies
-  -  Assist in maintaining Internet service, firewalls, and telephone systems
+  - Assist in maintaining Internet service, firewalls and telephone systems
 - **Software Developer Internship - Software House - Solis Cooperativa**<br>
   <span style="color: grey; font-size: 14px">03/2010 - 07/2010 · Lajeado, Brazil</span>
   - Learn PHP and SQL languages 
