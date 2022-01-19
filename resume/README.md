@@ -37,13 +37,14 @@ Software Developer - Porto Alegre, Brazil<br>
   - Scripting Infra tasks automation and optimization
 - **Network Administrator - Software House - Eagle Inteligência Digital** <br>
   <span style="color: grey; font-size: 14px">10/2014 - 03/2017 · Porto Alegre, Brazil</span>
-  - Planning and Installation of Virtualized Servers for Company’s Firewall, Development Environments and Customers services
+  - Management of servers and cloud services (AWS) for development and production environments
   - Products features planning and environments automation
-  - High Availability implementation for services and applications
+  - High availability implementation for business applications
+  - Design network solutions for small and mid-size enterprise
 - **IT Assistant - Education Institution / College - FAPA** <br>
   <span style="color: grey; font-size: 14px">08/2012 - 03/2014 · Porto Alegre, Brazil</span>
   - Opportunity to work with On-Premises Data Center 
-  - Learn to work and manage Enterprise Solutions - Active Directory, Juniper, Aruba and Kaspersky
+  - Learn to work and manage enterprise solutions - Active Directory, Juniper, Aruba and Kaspersky
   - Provide daily support for local network users, professors and students
   - Helpdesk reports and inventory tracking
   - Trained and supervised IT assistant interns for labs maintenance and support
@@ -55,7 +56,7 @@ Software Developer - Porto Alegre, Brazil<br>
 - **Software Developer Internship - Software House - Solis Cooperativa**<br>
   <span style="color: grey; font-size: 14px">03/2010 - 07/2010 · Lajeado, Brazil</span>
   - Learn PHP and SQL languages 
-  - Work with Developers to design algorithms and flowcharts
+  - Work with developers to design algorithms and flowcharts
   - Produce clean and efficient code based on specifications
 
 ---------
