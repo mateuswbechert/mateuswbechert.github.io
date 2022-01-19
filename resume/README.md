@@ -1,7 +1,7 @@
 ## Mateus Wolfart Bechert
 
 Software Developer - Porto Alegre, Brazil<br>
-8 years of experience on Linux, Cloud and Network Management<br>
++8 years of experience on Linux, Cloud and Network Management<br>
 <mateuswbechert@gmail.com> <br>
 [linkedin.com/in/mateus-wolfart-bechert](http://linkedin.com/in/mateus-wolfart-bechert) <br>
 [github.com/mateuswbechert](http://github.com/mateuswbechert) <br>
@@ -25,16 +25,19 @@ Software Developer - Porto Alegre, Brazil<br>
 #### WORK EXPERIENCE
 - **IT Consultant - Founder - WB Consultoria**<br>
   <span style="color: grey; font-size: 14px">09/2019 - present · Porto Alegre, Brazil</span>
-  - Design solution, test, install and monitor systems
+  - Design solutions, test, deploy and monitor systems
   - Define software, hardware and network requirements
   - Prepare documentation and present progress reports to customers
 - **IT Infrastructure Analyst - Ecommerce Platform - F1 Commerce**<br>
   <span style="color: grey; font-size: 14px">04/2017 - 08/2021 · São Leopoldo, Brazil</span>
   - Cloud infrastructure management, monitoring and performance analysis
+  - Software architecture planning with Product and Development Team
+  - Continuous software delivery planning and development
+  - Lead Infrastructure Team
+  - Scripting for Infra tasks automation and optimization
   - System Administration for development, tests, homologation and production environments
   - Analysis of incidents, correction, planning and referral to the development team
-  - Creation of tools for development environment process
-  - Scripting Infra tasks automation and optimization
+  - Developed Security Policies 
 - **Network Administrator - Software House - Eagle Inteligência Digital** <br>
   <span style="color: grey; font-size: 14px">10/2014 - 03/2017 · Porto Alegre, Brazil</span>
   - Management of servers and cloud services (AWS) for development and production environments
