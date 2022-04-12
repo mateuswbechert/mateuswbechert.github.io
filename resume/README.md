@@ -10,15 +10,15 @@ Software Developer - Porto Alegre, Brazil<br>
 
 #### TECHNICAL SKILLS
 
-(1- year): Python, Django, ExpressJS 
+(1- year): Django, ExpressJS; Docker Swarm;
 
-(2+ years): ElasticSearch Cluster, Rest, Json APIs, PHP, jQuery, Bootstrap
+(2+ years): Python, PHP, CSS, Bootstrap, jQuery; Rest, Json APIs; ElasticSearch Cluster;
 
-(3+ years): Docker, Gitlab, CDN, Varnish, Haproxy, Redis, Pipelines (CI/CD), LXC, Zabbix, Graylog
+(3+ years): Docker, Linux Containers(LXC); Redis, Varnish, Haproxy, Zabbix, Graylog; CDN, Gitlab, Pipelines (CI/CD);
 
-(5+ years): Git, AWS, MySQL, Nginx, DNS, SSL/TLS, VPN, Performance Management, High Availability
+(5+ years): Git, MySQL; AWS, Nginx; Performance Management, High Availability; DNS, SSL/TLS, VPN;
 
-(8+ years): HTML, Bash, Linux, Virtualization, Firewall, TCP/UDP, HTTP, Apache, SMTP, Postfix, Spamassassin
+(8+ years): HTML, Bash; Linux, Virtualization, Firewall, Postfix, Apache; TCP/UDP, HTTP, SMTP;
 
 --------
 
