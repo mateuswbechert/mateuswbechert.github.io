@@ -10,15 +10,15 @@ DevOps Engineer - Porto Alegre, Brazil<br>
 
 #### TECHNICAL SKILLS
 
-(1- year): Django, ExpressJS; Docker Swarm;
+(1- year): Docker Swarm, Kubernetes, Terraform; Django, ExpressJS; 
 
 (2+ years): Python, PHP, CSS, Bootstrap, jQuery; Rest, Json APIs; ElasticSearch Cluster;
 
-(3+ years): Docker, Linux Containers(LXC); Redis, Varnish, Haproxy, Zabbix, Graylog; CDN, Gitlab, Pipelines (CI/CD);
+(3+ years): Docker, Linux Containers(LXC), Gitlab Pipelines (CI/CD); Redis, Varnish, Haproxy, Zabbix, Graylog; CDN;
 
-(5+ years): Git, MySQL; AWS, Nginx; Performance Management, High Availability; DNS, SSL/TLS, VPN;
+(5+ years): Git, AWS, MySQL, Nginx; Performance Management, High Availability; DNS, SSL/TLS, VPN;
 
-(8+ years): HTML, Bash; Linux, Virtualization, Firewall, Postfix, Apache; TCP/UDP, HTTP, SMTP;
+(8+ years): Bash, Linux; Virtualization, Firewall, Postfix, Apache; TCP/UDP, HTTP, SMTP; HTML;
 
 --------
 
