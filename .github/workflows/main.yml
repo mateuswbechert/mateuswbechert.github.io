@@ -22,11 +22,11 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-
-- name: Markdown to PDF and HTML
-  # You may pin to the exact commit or the version.
-  # uses: BaileyJM02/markdown-to-pdf@efc04d3f22971dfbb6b571333469119cfb6a926c
-  uses: BaileyJM02/markdown-to-pdf@v1
-  with:
-    # (Path) The location of the folder containing your .md or .markdown files
-    input_dir: resume/
+  
+      - name: Markdown to PDF and HTML
+        # You may pin to the exact commit or the version.
+        # uses: BaileyJM02/markdown-to-pdf@efc04d3f22971dfbb6b571333469119cfb6a926c
+        uses: BaileyJM02/markdown-to-pdf@v1
+        with:
+          # (Path) The location of the folder containing your .md or .markdown files
+          input_dir: resume/
