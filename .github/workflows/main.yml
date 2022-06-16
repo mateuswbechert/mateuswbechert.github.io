@@ -30,3 +30,8 @@ jobs:
         with:
           # (Path) The location of the folder containing your .md or .markdown files
           input_dir: resume/
+
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v3.1.0
+        with:
+          path: resume/
