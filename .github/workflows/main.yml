@@ -30,6 +30,7 @@ jobs:
         with:
           # (Path) The location of the folder containing your .md or .markdown files
           input_dir: resume/
+          output_dir: resume/
 
       - name: Upload binaries to release
         uses: svenstaro/upload-release-action@v2
