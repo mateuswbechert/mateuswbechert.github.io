@@ -81,7 +81,7 @@ DevOps Engineer - Porto Alegre, Brazil<br>
 
 Portuguese - Native
 
-English - Intermediate
+English - Upper Intermediate
 
-German - Basic
+Spanish - Basic
 
