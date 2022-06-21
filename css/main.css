@@ -266,7 +266,7 @@ a:hover
     line-height: 1.1em;
 
     margin-top: .5em;
-    margin-bottom: .46em;
+    margin-bottom: 0.2em;
 
     letter-spacing: .025em;
 }
@@ -274,6 +274,19 @@ a:hover
 .hero .front-content .container-mid p.subline
 {
     font-size: 3rem;
+    line-height: 1.4em;
+
+    max-width: 18em;
+    margin-right: auto;
+    margin-bottom: 0.4em;
+    margin-left: auto;
+
+    letter-spacing: .025em;
+}
+
+.hero .front-content .container-mid p.sublinemin
+{
+    font-size: 2rem;
     line-height: 1.4em;
 
     max-width: 18em;
@@ -388,7 +401,7 @@ a:hover
     height: 100%;
 
     opacity: .7;
-    background: #020026;
+    background: #1a1a1f;
 }
 
 .hero .background-content .background-img
