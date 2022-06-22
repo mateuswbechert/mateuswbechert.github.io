@@ -1,13 +1,11 @@
 /** 1. Basic
 *******************************************************************/
 
-html
-{
+html {
     font-size: 10px !important;
 }
 
-body
-{
+body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: normal;
@@ -15,7 +13,7 @@ body
     overflow: hidden;
 
     color: #fff;
-    background: #000;
+    background: #1a1a1e;
 
     -webkit-font-smoothing: antialiased;
 }
@@ -27,93 +25,75 @@ h4,
 h5,
 h6,
 p,
-a
-{
+a {
     font-family: 'Roboto', sans-serif;
     font-weight: normal;
 
     color: #fff;
 }
 
-h1
-{
+h1 {
     font-size: 6rem;
 }
 
-h2
-{
+h2 {
     font-size: 5rem;
 }
 
-h3
-{
+h3 {
     font-size: 4rem;
 }
 
-h4
-{
+h4 {
     font-size: 3rem;
 }
 
-h5
-{
+h5 {
     font-size: 2rem;
 }
 
-h6
-{
+h6 {
     font-size: 1.8rem;
 }
 
-p
-{
+p {
     font-size: 1.4rem;
 }
 
 a,
 a:hover,
-a:focus
-{
+a:focus {
     cursor: pointer;
     -webkit-transition: all 300ms ease;
-         -o-transition: all 300ms ease;
-            transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
     text-decoration: none;
 }
 
-a:hover
-{
+a:hover {
     color: #fff;
 }
 
-@media (max-width:700px)
-{
-    html
-    {
+@media (max-width:700px) {
+    html {
         font-size: 8px !important;
     }
 }
 
-@media (max-width:500px)
-{
-    html
-    {
+@media (max-width:500px) {
+    html {
         font-size: 6px !important;
     }
 }
 
-@media (max-width:350px)
-{
-    html
-    {
+@media (max-width:350px) {
+    html {
         font-size: 5px !important;
     }
 }
 
-@media (orientation:landscape) and (max-height:420px)
-{
-    html
-    {
+@media (orientation:landscape) and (max-height:420px) {
+    html {
         font-size: 8px !important;
     }
 }
@@ -123,8 +103,7 @@ a:hover
 /** 2. Hero
 *******************************************************************/
 
-.hero
-{
+.hero {
     position: absolute;
     z-index: 1;
     top: 0;
@@ -134,91 +113,80 @@ a:hover
     height: 100%;
 }
 
-.hero .animation-container
-{
+.hero .animation-container {
     -webkit-transition: .5s ease;
-         -o-transition: .5s ease;
-            transition: .5s ease;
+    -o-transition: .5s ease;
+    transition: .5s ease;
 }
 
-.hero .animation-container.animation-fade
-{
+.hero .animation-container.animation-fade {
     opacity: 0;
 }
 
-.hero .animation-container.animation-fade.run-animation
-{
+.hero .animation-container.animation-fade.run-animation {
     opacity: 1;
 }
 
-.hero .animation-container.animation-fade-up
-{
+.hero .animation-container.animation-fade-up {
     -webkit-transform: translateY(10vh);
-        -ms-transform: translateY(10vh);
-            transform: translateY(10vh);
+    -ms-transform: translateY(10vh);
+    transform: translateY(10vh);
 
     opacity: 0;
 }
 
-.hero .animation-container.animation-fade-up.run-animation
-{
+.hero .animation-container.animation-fade-up.run-animation {
     -webkit-transform: translateY(0);
-        -ms-transform: translateY(0);
-            transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
 
     opacity: 1;
 }
 
-.hero .animation-container.animation-fade-down
-{
+.hero .animation-container.animation-fade-down {
     -webkit-transform: translateY(-10vh);
-        -ms-transform: translateY(-10vh);
-            transform: translateY(-10vh);
+    -ms-transform: translateY(-10vh);
+    transform: translateY(-10vh);
 
     opacity: 0;
 }
 
-.hero .animation-container.animation-fade-down.run-animation
-{
+.hero .animation-container.animation-fade-down.run-animation {
     -webkit-transform: translateY(0);
-        -ms-transform: translateY(0);
-            transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
 
     opacity: 1;
 }
 
-.hero .animation-container.animation-fade-left
-{
+.hero .animation-container.animation-fade-left {
     -webkit-transform: translateX(10vh);
-        -ms-transform: translateX(10vh);
-            transform: translateX(10vh);
+    -ms-transform: translateX(10vh);
+    transform: translateX(10vh);
 
     opacity: 0;
 }
 
-.hero .animation-container.animation-fade-left.run-animation
-{
+.hero .animation-container.animation-fade-left.run-animation {
     -webkit-transform: translateX(0);
-        -ms-transform: translateX(0);
-            transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
 
     opacity: 1;
 }
 
-.hero .animation-container.animation-fade-right
-{
+.hero .animation-container.animation-fade-right {
     -webkit-transform: translateX(-10vh);
-        -ms-transform: translateX(-10vh);
-            transform: translateX(-10vh);
+    -ms-transform: translateX(-10vh);
+    transform: translateX(-10vh);
 
     opacity: 0;
 }
 
-.hero .animation-container.animation-fade-right.run-animation
-{
+.hero .animation-container.animation-fade-right.run-animation {
     -webkit-transform: translateX(0);
-        -ms-transform: translateX(0);
-            transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
 
     opacity: 1;
 }
@@ -228,8 +196,7 @@ a:hover
 /** 3. Hero --> Front Content 
 *******************************************************************/
 
-.hero .front-content
-{
+.hero .front-content {
     position: absolute;
     z-index: 2;
     top: 0;
@@ -239,8 +206,7 @@ a:hover
     height: 100%;
 }
 
-.hero .front-content .container-mid
-{
+.hero .front-content .container-mid {
     position: absolute;
     top: 50%;
     left: 0;
@@ -248,20 +214,18 @@ a:hover
     width: 100%;
 
     -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
-            transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
     text-align: center;
 }
 
-.hero .front-content .container-mid img.logo
-{
+.hero .front-content .container-mid img.logo {
     display: block;
 
     margin: 0 auto;
 }
 
-.hero .front-content .container-mid h1
-{
+.hero .front-content .container-mid h1 {
     font-weight: bold;
     line-height: 1.1em;
 
@@ -271,8 +235,7 @@ a:hover
     letter-spacing: .025em;
 }
 
-.hero .front-content .container-mid p.subline
-{
+.hero .front-content .container-mid p.subline {
     font-size: 3rem;
     line-height: 1.4em;
 
@@ -284,8 +247,7 @@ a:hover
     letter-spacing: .025em;
 }
 
-.hero .front-content .container-mid p.sublinemin
-{
+.hero .front-content .container-mid p.sublinemin {
     font-size: 2rem;
     line-height: 1.4em;
 
@@ -297,8 +259,7 @@ a:hover
     letter-spacing: .025em;
 }
 
-.hero .front-content .container-mid .open-popup
-{
+.hero .front-content .container-mid .open-popup {
     font-size: 2.2rem;
     font-weight: 500;
     line-height: 2.6em;
@@ -312,8 +273,8 @@ a:hover
 
     cursor: pointer;
     -webkit-transition: all .1s linear;
-         -o-transition: all .1s linear;
-            transition: all .1s linear;
+    -o-transition: all .1s linear;
+    transition: all .1s linear;
     letter-spacing: .025em;
 
     color: #fff;
@@ -322,14 +283,12 @@ a:hover
     background: none;
 }
 
-.hero .front-content .container-mid .open-popup:hover
-{
+.hero .front-content .container-mid .open-popup:hover {
     color: #fff;
     background: rgba(255, 255, 255, 0.329);
 }
 
-.hero .front-content .footer
-{
+.hero .front-content .footer {
     position: absolute;
     bottom: 10px;
 
@@ -338,8 +297,7 @@ a:hover
     text-align: center;
 }
 
-.hero .front-content .footer p
-{
+.hero .front-content .footer p {
     font-size: 1.3rem;
 
     letter-spacing: .025em;
@@ -347,15 +305,12 @@ a:hover
     opacity: .85;
 }
 
-.hero .front-content .footer p a
-{
+.hero .front-content .footer p a {
     font-weight: bold;
 }
 
-@media (orientation:landscape) and (max-height:420px)
-{
-    .hero .front-content .footer
-    {
+@media (orientation:landscape) and (max-height:420px) {
+    .hero .front-content .footer {
         display: none;
     }
 }
@@ -365,8 +320,7 @@ a:hover
 /** 4. Hero --> Background Content 
 *******************************************************************/
 
-.hero .background-content
-{
+.hero .background-content {
     position: absolute;
     z-index: 1;
     top: 0;
@@ -376,8 +330,7 @@ a:hover
     height: 100%;
 }
 
-.hero .background-content.parallax-on
-{
+.hero .background-content.parallax-on {
     position: absolute;
     z-index: 1;
     top: 50%;
@@ -387,11 +340,10 @@ a:hover
     height: 110%;
 
     -webkit-transform: translate3d(-50%, -50%, 0px) !important;
-            transform: translate3d(-50%, -50%, 0px) !important;
+    transform: translate3d(-50%, -50%, 0px) !important;
 }
 
-.hero .background-content .background-overlay
-{
+.hero .background-content .background-overlay {
     position: absolute;
     z-index: 50;
     top: 0;
@@ -404,8 +356,7 @@ a:hover
     background: #1a1a1f;
 }
 
-.hero .background-content .background-img
-{
+.hero .background-content .background-img {
     position: absolute;
     z-index: 1;
     top: 0;
@@ -415,6 +366,35 @@ a:hover
     height: 100%;
 
     background: url(../img/background.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: space;
+    background-size: 100%;
+}
+
+.dropdown-content {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.5s linear;
+    position: absolute;
+}
+
+.dropdown-baby:hover .dropdown-content {
+    visibility: visible;
+    opacity: 1;
+    position: initial;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    display: inline;
+    line-height: 0px;
+}
+
+.li-size {
+    font-size: 10px;
 }
