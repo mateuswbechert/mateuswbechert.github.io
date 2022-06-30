@@ -23,16 +23,16 @@ DevOps Engineer - Porto Alegre, Brazil
 --------
 
 #### WORK EXPERIENCE
-- **IT Consultant**  
+- **09/2019 - present - IT Consultant**  
  WB Consultoria - Founder  
-  <span style="color: grey; font-size: 14px">09/2019 - present · Porto Alegre, Brazil</span>
+ Porto Alegre, Brazil  
   - Design solutions, test, deploy and monitor systems
   - Define software, hardware and network requirements
   - Prepare documentation and present progress reports to customers
   <br><br>
-- **IT Infrastructure Analyst**  
+- **04/2017 - 08/2021 - IT Infrastructure Analyst**  
   F1 Commerce - Ecommerce Platform  
-  <span style="color: grey; font-size: 14px">04/2017 - 08/2021 · São Leopoldo, Brazil</span>
+  São Leopoldo, Brazil  
   - Cloud infrastructure management, monitoring and performance analysis
   - Software architecture planning with Product and Development Team
   - Continuous software delivery planning and development
@@ -42,33 +42,33 @@ DevOps Engineer - Porto Alegre, Brazil
   - Analysis of incidents, correction, planning and referral to the development team
   - Developed Security Policies
   <br><br>
-- **Network Administrator**  
+- **10/2014 - 03/2017 - Network Administrator**  
   Eagle Inteligência Digital - Software House  
-  <span style="color: grey; font-size: 14px">10/2014 - 03/2017 · Porto Alegre, Brazil</span>
+  Porto Alegre, Brazil
   - Management of servers and cloud services (AWS) for development and production environments
   - Products features planning and environments automation
   - High availability implementation for business applications
   - Design network solutions for small and mid-size enterprise
   <br><br>
-- **IT Assistant**  
+- **08/2012 - 03/2014 - IT Assistant**  
   FAPA - Education Institution / College  
-  <span style="color: grey; font-size: 14px">08/2012 - 03/2014 · Porto Alegre, Brazil</span>
+  Porto Alegre, Brazil  
   - Opportunity to work with On-Premises Data Center 
   - Learn to work and manage enterprise solutions - Active Directory, Juniper, Aruba and Kaspersky
   - Provide daily support for local network users, professors and students
   - Helpdesk reports and inventory tracking
   - Trained and supervised IT assistant interns for labs maintenance and support
   <br><br>
-- **IT Assistant Intern**  
+- **05/2011 - 11/2011 - IT Assistant Intern**  
   Planalto - Delivery and Transport Services  
-  <span style="color: grey; font-size: 14px">O5/2011 - 11/2011 · Porto Alegre, Brazil</span>
+  Porto Alegre, Brazil  
   - Provide daily support for network users
   - Responsible for writing reports, tracking inventory, evaluating new technologies
   - Assist in maintaining Internet service, firewalls and telephone systems
   <br><br>
-- **Software Developer Internship**  
-Solis Cooperativa - Software House  
-  <span style="color: grey; font-size: 14px">03/2010 - 07/2010 · Lajeado, Brazil</span>
+- **03/2010 - 07/2010 - Software Developer Internship**  
+  Solis Cooperativa - Software House  
+  Lajeado, Brazil  
   - Learn PHP and SQL languages 
   - Work with developers to design algorithms and flowcharts
   - Produce clean and efficient code based on specifications
