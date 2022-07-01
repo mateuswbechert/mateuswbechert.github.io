@@ -1,25 +1,3 @@
-/******************************************************************
-
-
-	------------------------
-	-- TABLE OF CONTENTS --
-	------------------------
-	
-	--  1. Basic
-	--  2. Preloader
-    --  3. Hero
-    --  4. Hero --> Front Content
-    --  5. Hero --> Background Content
- 
- 
- ******************************************************************/
-
-
-
-
-/** 1. Basic
-*******************************************************************/
-
 html
 {
     font-size: 16px;
@@ -330,7 +308,7 @@ a:hover
     height: 100%;
 
     opacity: .9;
-    background: #0f33ec;
+    background: #1a1a1f;
 }
 
 .hero .background-content .background-img
