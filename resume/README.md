@@ -1,7 +1,8 @@
 ## Mateus Wolfart Bechert
 
 DevOps Engineer - Porto Alegre, Brazil  
-+8 years of experience on Linux, Cloud and Network Management<br>
+Over 8 years of experience on Linux, Cloud and Network Management with background designing, testing and implementing infrastructure and applications.
+<br>
 <matwolbec@proton.me>  
 [linkedin.com/in/mateus-wolfart-bechert](http://linkedin.com/in/mateus-wolfart-bechert)  
 [github.com/matwolbec](http://github.com/matwolbec)  
