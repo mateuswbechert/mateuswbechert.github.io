@@ -11,9 +11,9 @@ Over 8 years of experience on Linux, Cloud and Network Management with backgroun
 
 #### TECHNICAL SKILLS
 
-(1- year): Docker Swarm, Kubernetes, Terraform, Digital Ocean; Django, ExpressJS;
+(1- year): Kubernetes, Terraform; Azure (AKS, VMs), Digital Ocean; Django, ExpressJS;
 
-(2+ years): Python, PHP, CSS, Bootstrap, jQuery; Rest, Json APIs; ElasticSearch Cluster;
+(2+ years): Python, PHP, CSS, Bootstrap, jQuery; Rest, Json APIs; Docker Swarm, ElasticSearch Cluster;
 
 (3+ years): Docker, Linux Containers (LXC), Gitlab Pipelines (CI/CD); Redis, Varnish, Haproxy, Zabbix, Graylog; CDN;
 
