@@ -11,15 +11,15 @@ Over 8 years of experience on Linux, Cloud and Network Management with backgroun
 
 #### TECHNICAL SKILLS
 
-(1- year): Kubernetes, Terraform, Jenkins, Ansible; Azure (AKS, VMs), Digital Ocean; Django, ExpressJS;
+(1 year): Kubernetes, Terraform, Jenkins, Ansible; Azure, Digital Ocean; Django, ExpressJS;
 
-(2+ years): Python, PHP, CSS, Bootstrap, jQuery; Rest, Json APIs; Docker Swarm, ElasticSearch Cluster;
+(2+ years): Python, PHP, CSS, Bootstrap, jQuery; Rest, Json APIs; Docker Swarm, ElasticSearch Cluster, Graylog (centralized log management);
 
-(3+ years): Docker, Linux Containers (LXC), Gitlab Pipelines (CI/CD), PSSH; Redis, Varnish, Haproxy, Zabbix, Graylog; CDN;
+(3+ years): Docker, Linux Containers (LXC), Gitlab Pipelines (CI/CD), PSSH; Redis, Varnish, Haproxy, Zabbix, PM2; CDN;
 
-(5+ years): Git, AWS (EC2, ELB, RDS), MySQL, Nginx; Performance Management, High Availability; DNS, SSL/TLS, VPN;
+(5+ years): Git, AWS (EC2, ELB, RDS), MySQL, Nginx, Fail2ban; WHM, cPanel, ISPConfig; Performance Management, High Availability; SSL/TLS, VPN;
 
-(8+ years): Bash, Linux; Virtualization, Firewall, Postfix, Apache; TCP/UDP, HTTP, SMTP;
+(8+ years): Bash, Linux (Ubuntu, Debian, Fedora); Virtualização (Xen Server, VMWare ESXi, Proxmox), Firewall, Postfix, Dovecot, SpamAssassin, Apache; TCP/UDP, HTTP, SMTP, SPF, DKIM, DMARC, DNS, FTP, DHCP, Samba, AD;
 
 --------
 
