@@ -19,7 +19,7 @@ Over 8 years of experience on Linux, Cloud and Network Management with backgroun
 
 (5+ years): Git, AWS (EC2, ELB, RDS), MySQL, Nginx, Fail2ban; WHM, cPanel, ISPConfig; Performance Management, High Availability; SSL/TLS, VPN;
 
-(8+ years): Bash, Linux (Ubuntu, Debian, Fedora); Virtualização (Xen Server, VMWare ESXi, Proxmox), Firewall, Postfix, Dovecot, SpamAssassin, Apache; TCP/UDP, HTTP, SMTP, SPF, DKIM, DMARC, DNS, FTP, DHCP, Samba, AD;
+(8+ years): Bash, Linux (Ubuntu, Debian, Fedora); Virtualization (Xen Server, VMWare ESXi, Proxmox), Firewall, Postfix, Dovecot, SpamAssassin, Apache; TCP/UDP, HTTP, SMTP, SPF, DKIM, DMARC, DNS, FTP, DHCP, Samba, AD;
 
 --------
 
