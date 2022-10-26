@@ -11,7 +11,7 @@ Over 8 years of experience on Linux, Cloud and Network Management with backgroun
 
 #### TECHNICAL SKILLS
 
-(1 year): Kubernetes, Terraform, Jenkins, Ansible; Azure, Digital Ocean; Django, ExpressJS;
+(1 year): Kubernetes, Terraform, Packer, Jenkins, Ansible; Azure, Digital Ocean; Django, ExpressJS;
 
 (2+ years): Python, PHP, CSS, Bootstrap, jQuery; Rest, Json APIs; Docker Swarm, ElasticSearch Cluster, Graylog (centralized log management);
 
