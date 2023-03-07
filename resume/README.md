@@ -1,7 +1,7 @@
 ## Mateus Wolfart Bechert
 
 DevOps Engineer - Porto Alegre, Brazil  
-Over 8 years of experience on Linux, Cloud and Network Management with background designing, testing and implementing infrastructure and applications.
++10 years' experience on Linux, Cloud and Network Management with background designing, testing and implementing infrastructure and applications.
 <br>
 <matwolbec@proton.me>  
 [linkedin.com/in/mateus-wolfart-bechert](http://linkedin.com/in/mateus-wolfart-bechert)  
@@ -11,7 +11,7 @@ Over 8 years of experience on Linux, Cloud and Network Management with backgroun
 
 #### TECHNICAL SKILLS
 
-(1 year): CDK, Kubernetes, Terraform, Packer, Jenkins, Ansible; Azure, Digital Ocean; Django, ExpressJS;
+(1 year): AWS ECS, CloudFront, Route53, ECR, KMS;, Kubernetes, Terraform, Packer, Jenkins, Ansible; Azure, Digital Ocean; Django, ExpressJS;
 
 (2+ years): Python, PHP, CSS, Bootstrap, jQuery; Rest, Json APIs; Docker Swarm, ElasticSearch Cluster, Graylog (centralized log management);
 
